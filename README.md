@@ -156,10 +156,12 @@
 
 ---
 
-## 🎯 Goals
-- Crack **TCS Digital / Prime**  
-- Become **Full Stack Developer**  
-- Master **DSA**  
+## 🎯 Mission 2026
+
+🚀 Crack TCS Digital / Prime  
+🧠 Master DSA (300+ problems)  
+💻 Build 5+ real-world projects  
+🌐 Become Full Stack Developer   
 
 ---
 
