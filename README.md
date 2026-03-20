@@ -1,22 +1,24 @@
 <h1 align="center">Hi 👋, I'm Sirigidi Balaji</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;B.Tech+IT+Student;Python+%7C+ASP.NET+%7C+Flask;Future+TCS+Digital+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;B.Tech+IT+Student;Python+%7C+ASP.NET+%7C+Flask;" />
 </p>
 
 ---
 
 ## 💫 About Me
-**A passionate Software Developer | B.Tech IT Student from India 🇮🇳**
 
-📧 **sirigidibalaji2002@gmail.com**
+💻 Aspiring Software Developer | B.Tech IT Student from India 🇮🇳  
 
-- 🔭 Currently working on: **Student Chatbot (Flask + MySQL)**  
-- 🌱 Learning: **DSA & Full Stack Development**  
-- 👯 Open to collaborate on: **Web Development Projects**  
-- 🤔 Exploring: **System Design & Advanced DSA**  
-- 💬 Ask me about: **Python, ASP.NET, Flask**  
-- ⚡ Fun fact: I love building real-world projects 🚀  
+📧 sirigidibalaji2002@gmail.com  
+
+- 🔭 Working on: Student Chatbot (Flask + MySQL)  
+- 🌱 Learning: DSA & Full Stack Development  
+- 👯 Open to: Web Development Projects  
+- 💬 Skills: Python, ASP.NET, Flask, MySQL  
+- 🎯 Goal: Crack TCS Digital / Prime  
+
+⚡ I enjoy solving problems and building real-world applications 🚀  🚀  
 
 ---
 
@@ -31,9 +33,6 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/Sirigidibalaji/Sirigidibalaji/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 <p align="center">
   <img src="https://github.com/Sirigidibalaji/Sirigidibalaji/blob/output/github-contribution-grid-snake-dark.svg" />
