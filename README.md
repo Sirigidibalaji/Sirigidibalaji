@@ -1,22 +1,39 @@
 <h1 align="center">Hi 👋, I'm Sirigidi Balaji</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;B.Tech+IT+Student;Python+%7C+ASP.NET+%7C+Flask;Future+TCS+Digital+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;B.Tech+IT+Student;Python+%7C+ASP.NET+%7C+Flask;" />
 </p>
 
 ---
 
-# 💫 About Me
-**A passionate Software Developer | B.Tech IT Student from India 🇮🇳**
+## 💻 About Me
 
-📧 Email: **sirigidibalaji2002@gmail.com**
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Sirigidi Balaji"
+        self.role = "Aspiring Software Developer"
+        self.education = "B.Tech IT"
+        self.location = "India 🇮🇳"
+        self.email = "sirigidibalaji2002@gmail.com"
 
-- 🔭 Currently working on: **Student Chatbot (Flask + MySQL)**  
-- 🌱 Learning: **DSA & Full Stack Development**  
-- 👯 Open to collaborate on: **Web Development Projects**  
-- 🤔 Exploring: **System Design & Advanced DSA**  
-- 💬 Ask me about: **Python, ASP.NET, Flask**  
-- ⚡ Fun fact: I love building real-world projects 🚀  
+        self.current_work = "Student Chatbot (Flask + MySQL)"
+        self.learning = ["DSA", "Full Stack Development"]
+        self.skills = ["Python", "ASP.NET", "Flask", "MySQL"]
+
+        self.interests = [
+            "Problem Solving",
+            "Web Development",
+            "Building Real-world Applications"
+        ]
+
+        self.goal = "Crack TCS Digital / Prime"
+
+    def introduce(self):
+        return "Turning ideas into code 🚀"
+
+me = Developer()
+print(me.introduce()) 
 
 ---
 
