@@ -21,9 +21,23 @@
 ---
 
 ## 🌐 Connect with Me
+## 🌐 Connect With Me
+
 <p align="center">
+  <a href="mailto:sirigidibalaji2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sirigidibalaji2002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/sirigidi-balaji">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Sirigidi%20Balaji-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Sirigidibalaji">
+    <img src="https://img.shields.io/badge/GitHub-Sirigidibalaji-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/sirigidibalaji2002/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
 
@@ -31,9 +45,7 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/Sirigidibalaji/Sirigidibalaji/blob/output/github-contribution-grid-snake.svg" />
-</p>
+
 
 <p align="center">
   <img src="https://github.com/Sirigidibalaji/Sirigidibalaji/blob/output/github-contribution-grid-snake-dark.svg" />
