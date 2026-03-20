@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sirigidi Balaji</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;B.Tech+IT+Student;Python+%7C+ASP.NET+%7C+Flask;Future+TCS+Digital+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;B.Tech+IT+Student;Python+%7C+ASP.NET+%7C+Flask;" />
 </p>
 
 ---
