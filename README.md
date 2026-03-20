@@ -28,13 +28,8 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Sirigidibalaji/Sirigidibalaji/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
   <img src="https://github.com/Sirigidibalaji/Sirigidibalaji/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
