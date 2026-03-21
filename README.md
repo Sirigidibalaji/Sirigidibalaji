@@ -157,11 +157,9 @@
 ---
 
 ## 🎯 Mission 2026
-
-🚀 Crack TCS Digital / Prime  
-🧠 Master DSA (300+ problems)  
-💻 Build 5+ real-world projects  
-🌐 Become Full Stack Developer   
+- Become a **Java Developer** ☕  
+- Master **DSA in Java** 🧠  
+- Build **real-world backend projects** 🚀 
 
 ---
 
